@@ -1,0 +1,16 @@
+[project]
+name = "beautysoup"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "fastapi>=0.135.2",
+    "ollama>=0.6.1",
+    "pillow>=12.1.1",
+    "pyshorteners>=1.0.1",
+    "requests>=2.33.1",
+    "selenium>=4.41.0",
+    "uvicorn>=0.42.0",
+    "webdriver-manager>=4.0.2",
+]
