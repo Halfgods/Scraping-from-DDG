@@ -1,5 +1,8 @@
 #  Shaalaa Link Scraper
 
+
+https://github.com/user-attachments/assets/a8d3985d-7f00-4991-9b96-39ac8ab0851d
+
 A Python-based web scraper that searches [DuckDuckGo](https://duckduckgo.com) and extracts relevant links from [shaalaa.com](https://www.shaalaa.com) — a popular Maharashtra State Board study resource — for any given topic and class.
 
 ---
@@ -12,7 +15,10 @@ A Python-based web scraper that searches [DuckDuckGo](https://duckduckgo.com) an
 4. Extracts and returns the **top 3 matching shaalaa.com links**
 5. Saves them to `data/links.txt`
 
+
 ---
+
+
 
 ##  Tech Stack
 
@@ -125,6 +131,7 @@ If a search fails, the scraper automatically saves debug files:
 | `debug_no_shaalaa.png` | Results loaded but no shaalaa.com links found |
 
 ---
+<img width="780" height="493" alt="debug_no_results" src="https://github.com/user-attachments/assets/37737e1c-c92c-4be2-b635-11e8b6067e34" />
 
 ## 📋 Requirements
 
